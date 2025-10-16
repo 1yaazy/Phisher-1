@@ -125,7 +125,6 @@ HTML_TEMPLATE = """
         <div class="border-mark mark-9">!</div>
         <div class="border-mark mark-10">!</div>
         <div class="border-mark mark-11">!</div>
-        <div class="border-mark mark-12">!</div>
     </div>
 </body>
 </html>
