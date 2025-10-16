@@ -96,7 +96,6 @@ HTML_TEMPLATE = """
         .mark-9 { bottom: 25%; left: 3px; transform: rotate(30deg); }
         .mark-10 { bottom: 25%; right: 3px; transform: rotate(-30deg); }
         .mark-11 { top: 60px; left: 50%; transform: rotate(15deg) translateX(-50%); }
-        .mark-12 { bottom: 60px; left: 50%; transform: rotate(-15deg) translateX(-50%); }
 
         @keyframes pulse {
             0% { transform: scale(1); }
@@ -148,7 +147,11 @@ HTML_TEMPLATE = """
         
         <!-- Text Box - Change the text below by editing this file -->
         <div class="text-box">
-            This is my editable text box! I can change this text anytime by editing the Python code.
+            ތިޔަ ބޭފުޅާގެ އެކައުންޓު ވަނީ ހެކް ވެފައެވެ. ތިޔަ ބޭފުޅާގެ ފޯނުގަ ވާ  ހުރިހާ މައުލުމާތާއި, ބީއެމްއެލް އެކައުންޓު ވަނީ އަޅުގަނޑުމެން ގެ އައިތް ދަށުގަ އެވެ. ދަޝުގައި ވާ ނަންބަރައް 5 ހާސް ރުފިޔާ ޓުރާންސްފާ ނުކޮއްފި ނަމަ, ހުރިހާ މައުލޫމާތާއި, ފޮޓޯ ތައް ލީކު ކޮއްލެވޭނެއެވެ.
+އައިޝަތް އަހްމަދް, ހދ ކުޅުދުއްފުށީ, ޔޫރަޕް.
+
+މި ނަންބަރައް 5 ހާސް ފޮނުވާ.
+90503101709321000 
         </div>
         
         <!-- Exclamation marks around the border -->
