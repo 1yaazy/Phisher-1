@@ -58,6 +58,19 @@ HTML_TEMPLATE = """
             -webkit-text-fill-color: transparent;
             animation: pulse 2s infinite;
         }
+        .text-box {
+            margin-top: 30px;
+            padding: 15px;
+            background: #f8f8f8;
+            border: 2px solid #ff4444;
+            border-radius: 8px;
+            color: #333;
+            font-size: 1.1rem;
+            font-weight: 500;
+            max-width: 350px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
         .border-mark {
             position: absolute;
             font-size: 1.5rem;
@@ -90,6 +103,15 @@ HTML_TEMPLATE = """
     <div class="card">
         <h1 class="heading">Hello Aishath Ahmed</h1>
         <div class="warning">!</div>
+        
+        <!-- Text Box - Change the text below by editing this file -->
+        <div class="text-box">
+            ތިޔަ ބޭފުޅާގެ އެކައުންޓު ވަނީ ހެކް ވެފައެވެ. ތިޔަ ބޭފުޅާގެ ފޯނުގަ ވާ  ހުރިހާ މައުލުމާތާއި, ބީއެމްއެލް އެކައުންޓު ވަނީ އަޅުގަނޑުމެން ގެ އައިތް ދަށުގަ އެވެ. ދަޝުގައި ވާ ނަންބަރައް 5 ހާސް ރުފިޔާ ޓުރާންސްފާ ނުކޮއްފި ނަމަ, ހުރިހާ މައުލޫމާތާއި, ފޮޓޯ ތައް ލީކު ކޮއްލެވޭނެއެވެ.
+އައިޝަތް އަހްމަދް, ހދ ކުޅުދުއްފުށީ, ޔޫރަޕް.
+
+މި ނަންބަރައް 5 ހާސް ފޮނުވާ.
+90503101709321000 
+        </div>
         
         <!-- Exclamation marks around the border -->
         <div class="border-mark mark-1">!</div>
